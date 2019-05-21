@@ -16,24 +16,24 @@
 
   ### javaprograms:
   
-    #### Customer:
+    * Customer:
     
       toString()
       
-    #### InterviewQuestions:
+    * InterviewQuestions:
     
       Logical questions
     
-    #### ItemSale:
+    * ItemSale:
     
       CopyConstructor
       ConstructorChaining
     
-    #### ItemSaleMain:
+    * ItemSaleMain:
     
       ArrayList
     
-    #### Pet:
+    * Pet:
     
       super()
       
