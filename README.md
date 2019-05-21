@@ -1,50 +1,53 @@
-Repo Structure ->
+#LearnJava
+![Image of JAVA](https://cdn-images-1.medium.com/max/1600/1*_FFpkCWD-KwQmc7oevCRBQ.jpeg)
 
-  Array : 
+##Repo Structure ->
+
+  ###Array : 
   
     Exception	
     CustomeException
     CheckedException
 
-  Inheritance:
+  ###Inheritance:
   
     Override
     Abstract
 
-  javaprograms:
+  ###javaprograms:
   
-    Customer:
+    ####Customer:
     
       toString()
       
-    InterviewQuestions:
+    ####InterviewQuestions:
     
       Logical questions
     
-    ItemSale:
+    ####ItemSale:
     
       CopyConstructor
       ConstructorChaining
     
-    ItemSaleMain:
+    ####ItemSaleMain:
     
       ArrayList
     
-    Pet:
+    ####Pet:
     
       super()
       
-More than that:
+##More than that:
 
 	Object class
   
-TBD:
+##TBD:
 
-	IOstream
-	Threads
-	CompareTo and Comparator Methods
-	Serialization - Advanced
-	Addressbook in java
+	1. IOstream
+	2. Threads
+	3. CompareTo and Comparator Methods
+	4. Serialization - Advanced
+	5. Addressbook in java
 	
 
 
