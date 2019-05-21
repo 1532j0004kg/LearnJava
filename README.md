@@ -1,9 +1,9 @@
 # LearnJava
 ![Image of JAVA](https://cdn-images-1.medium.com/max/1600/1*_FFpkCWD-KwQmc7oevCRBQ.jpeg)
 
-## Repo Structure ->
+## Repo Structure:
 
-  ### Array : 
+  ### Array: 
   
     Exception	
     CustomeException
