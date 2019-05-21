@@ -25,7 +25,7 @@ Repo Structure ->
     Pet:
       super()
       
-More thank that ->
+More than that:
 
   Object class
   hashcode
