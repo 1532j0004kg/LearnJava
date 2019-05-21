@@ -1,47 +1,47 @@
 # LearnJava
 ![Image of JAVA](https://cdn-images-1.medium.com/max/1600/1*_FFpkCWD-KwQmc7oevCRBQ.jpeg)
 
-##Repo Structure ->
+## Repo Structure ->
 
-  ###Array : 
+  ### Array : 
   
     Exception	
     CustomeException
     CheckedException
 
-  ###Inheritance:
+  ### Inheritance:
   
     Override
     Abstract
 
-  ###javaprograms:
+  ### javaprograms:
   
-    ####Customer:
+    #### Customer:
     
       toString()
       
-    ####InterviewQuestions:
+    #### InterviewQuestions:
     
       Logical questions
     
-    ####ItemSale:
+    #### ItemSale:
     
       CopyConstructor
       ConstructorChaining
     
-    ####ItemSaleMain:
+    #### ItemSaleMain:
     
       ArrayList
     
-    ####Pet:
+    #### Pet:
     
       super()
       
-##More than that:
+## More than that:
 
 	Object class
   
-##TBD:
+## TBD:
 
 	1. IOstream
 	2. Threads
