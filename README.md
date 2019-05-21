@@ -27,8 +27,7 @@ Repo Structure ->
       
 More than that:
 
-  Object class
-  hashcode
+	Object class
   
 TBD:
 
