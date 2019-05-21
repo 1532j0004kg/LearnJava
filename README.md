@@ -14,15 +14,24 @@ Repo Structure ->
   javaprograms:
   
     Customer:
+    
       toString()
+      
     InterviewQuestions:
+    
       Logical questions
+    
     ItemSale:
+    
       CopyConstructor
       ConstructorChaining
-    ITemSaleMain:
+    
+    ItemSaleMain:
+    
       ArrayList
+    
     Pet:
+    
       super()
       
 More than that:
