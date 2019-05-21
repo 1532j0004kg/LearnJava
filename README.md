@@ -1,14 +1,18 @@
 Repo Structure ->
+
   Array : 
+  
     Exception	
     CustomeException
     CheckedException
 
   Inheritance:
+  
     Override
     Abstract
 
   javaprograms:
+  
     Customer:
       toString()
     InterviewQuestions:
@@ -20,11 +24,14 @@ Repo Structure ->
       ArrayList
     Pet:
       super()
+      
 More thank that ->
+
   Object class
   hashcode
   
 TBD:
+
 	IOstream
 	Threads
 	CompareTo and Comparator Methods
